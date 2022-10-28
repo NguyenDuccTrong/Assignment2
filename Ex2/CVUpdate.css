@@ -1,0 +1,68 @@
+.color-first {
+  background-color: #5bd3b3;
+  display: flex;
+  margin-bottom: -2rem;
+}
+.my-cv {
+  height: 100px;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+.image-profice {
+  padding: 61px;
+}
+.image-profice img {
+  border-radius: 57%;
+  max-width: 250px;
+  max-height: 250px;
+  width: 16rem;
+  height: 35rem;
+}
+.my-info {
+  color: aliceblue;
+  padding-top: 6rem;
+  font-size: 4rem;
+}
+.name {
+  font-weight: bold;
+  color: aliceblue;
+}
+.info-job a {
+  font-size: 35px;
+}
+.info{
+    display: flex;
+}
+.contact{
+    display: grid;
+    width: 30%;
+}
+.project-skill{
+    width: 70%;
+}
+.contact-2
+{
+    padding-top: 4rem;
+}
+.contact-3
+{
+    padding-top: 4rem;
+}
+.contact-4
+{
+    padding-top: 4rem;
+}
+.contact-6{
+  padding-top: 5rem;
+}
+.contact-7{
+  padding-top: 4rem;
+}
+.contact-4 a{
+    display: list-item;
+}
+.contact-7 a{
+  
+  display: list-item;
+}
+
